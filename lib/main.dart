@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'pages/home_page.dart';
-import 'pages/create_page.dart';
-import 'pages/favorite_page.dart';
+import 'pages/homepage.dart';
+import 'pages/createpage.dart';
+import 'pages/favoritepage.dart';
 import 'models/phone.dart';
-import 'pages/edit_page.dart';
-import 'pages/detail_page.dart';
+import 'pages/editpage.dart';
+import 'pages/detailpage.dart';
 
 void main() {
   runApp(const PhoneApp());

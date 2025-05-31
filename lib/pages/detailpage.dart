@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/phone.dart';
 import '../services/api_service.dart';
-import 'edit_page.dart';
+import 'editpage.dart';
 
 class DetailPage extends StatefulWidget {
   final Phone phone;

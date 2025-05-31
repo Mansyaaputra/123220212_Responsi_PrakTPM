@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/phone.dart';
 import '../services/api_service.dart';
-import 'detail_page.dart';
+import 'detailpage.dart';
 
 class FavoritePage extends StatefulWidget {
   const FavoritePage({super.key});
